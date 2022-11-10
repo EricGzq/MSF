@@ -17,7 +17,7 @@ For fake face image detection, most existing detectors exploit local artifacts, 
 - Python 3.6.8
 
 ## Usage of MSF
-MSF needs to be embedded in the training pipeline of the detection network to mine the structured forgery clues in the face images.
+The MSF needs to be embedded in the training pipeline of the detection network to augment the training data.
 - Input: (detection model, in_tensor)
 - Output: out_tensor
 
