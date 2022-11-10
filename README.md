@@ -21,3 +21,14 @@ MSF needs to be embedded in the training pipeline of the detection network to mi
 - Input: (detection model, in_tensor)
 - Output: out_tensor
 
+## Citation
+Please cite our paper if the code is used in your research:
+```
+@article{MSF,
+  title={A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection},
+  author={Guo, Zhiqing and Yang, Gaobo and Wang, Dewang and Zhang, Dengyong},
+  journal={Computer Vision and Image Understanding},
+  year={2023},
+  publisher={Elsevier}
+}
+```
