@@ -20,7 +20,7 @@ python 3.6.8
 ## Usage of MSF
 MSF needs to be embedded in the training pipeline of the detection network to mine the structured forgery clues in the face images.
 
-Input: detection model, in_tensor(B,C,H,W)
+Input: (detection model, in_tensor)
 
-Output: augmented out_tensor(B,C,H,W)
+Output: out_tensor
 
