@@ -14,10 +14,13 @@ For fake face image detection, most existing detectors exploit local artifacts, 
 
 ## Requirement
 PyTorch 1.7.1
+
 python 3.6.8
 
 ## Usage of MSF
 MSF needs to be embedded in the training pipeline of the detection network to mine the structured forgery clues in the face images.
+
 Input: detection model, in_tensor(B,C,H,W)
+
 Output: augmented out_tensor(B,C,H,W)
 
