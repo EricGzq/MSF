@@ -24,11 +24,14 @@ The MSF needs to be embedded in the training pipeline of the detection network t
 ## Citation
 Please cite our paper if the code is used in your research:
 ```
-@article{MSF,
-  title={A Data Augmentation Framework by Mining Structured Features for Fake Face Image Detection},
-  author={Guo, Zhiqing and Yang, Gaobo and Wang, Dewang and Zhang, Dengyong},
-  journal={Computer Vision and Image Understanding},
-  year={2023},
-  publisher={Elsevier}
+@article{GUO2022103587,
+title = {A data augmentation framework by mining structured features for fake face image detection},
+journal = {Computer Vision and Image Understanding},
+pages = {103587},
+year = {2022},
+issn = {1077-3142},
+doi = {https://doi.org/10.1016/j.cviu.2022.103587},
+url = {https://www.sciencedirect.com/science/article/pii/S1077314222001655},
+author = {Zhiqing Guo and Gaobo Yang and Dewang Wang and Dengyong Zhang},
 }
 ```
